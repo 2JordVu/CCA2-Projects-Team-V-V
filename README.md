@@ -13,9 +13,7 @@
 | Collaborator 1 | [Student 1 Name] | [PRN 1] | `[github-username-1]` | `Student1_Dev` |
 | Collaborator 2 | [Student 2 Name] | [PRN 2] | `[github-username-2]` | `Student2_Dev` |
 | Collaborator 3 | [Student 3 Name] | [PRN 3] | `[github-username-3]` | `Student3_Dev` |
-| Collaborator 4 | [Student 4 Name] | [PRN 4] | `[github-username-4]` | `Student4_Dev` |
-| Collaborator 5 | [Student 5 Name] | [PRN 5] | `[github-username-5]` | `Student5_Dev` |
-| Collaborator 6 | [Student 6 Name] | [PRN 6] | `[github-username-6]` | `Student6_Dev` |
+
 
 ---
 
