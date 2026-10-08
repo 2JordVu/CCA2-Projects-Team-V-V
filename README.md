@@ -10,9 +10,9 @@
 | Role | Student Name | PRN | GitHub Username | Branch |
 | :--- | :--- | :--- | :--- | :--- |
 | **Admin** | **Vedansh Verma** | **1302250131** | `vedansh-verma` | `main` |
-| Collaborator 1 | Arjit Anilkumar | 1302250043 | `[github-username-1]` | `Student1_Dev` |
-| Collaborator 2 | Sahil purswani  | 1302250073 | `[github-username-2]` | `Student2_Dev` |
-| Collaborator 3 | Soham Joshi     | 1302250195 | `[github-username-3]` | `Student3_Dev` |
+| Collaborator 1 | Arjit Anilkumar | 1302250043 | `arjitanilkumar` | `Student1_Dev` |
+| Collaborator 2 | Sahil Purswani  | 1302250073 | `sahilpurswani` | `Student2_Dev` |
+| Collaborator 3 | Soham Joshi     | 1302250195 | `2JordVu` | `Student3_Dev` |
 
 
 ---
