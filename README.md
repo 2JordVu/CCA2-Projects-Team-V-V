@@ -1,4 +1,4 @@
-# CCA-2 Projects: AI & Machine Learning - I
+# CCA-2 Project: AI & Machine Learning - I
 **Course:** S Y BCom FinTech | **Institution:** MIT World Peace University, Pune  
 **Department:** Commerce and Accounting / Economics and Public Policy  
 **Subject:** AI ML 1 - Continuous Concurrent Assessment 2 (CCA-2)  
