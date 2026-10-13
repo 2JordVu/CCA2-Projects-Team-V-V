@@ -9,7 +9,7 @@
 
 | Role | Student Name | PRN | GitHub Username | Branch |
 | :--- | :--- | :--- | :--- | :--- |
-| **Admin** | **Vedansh Verma** | **1302250131** | `2JordVu` | `main` |
+| **Admin** | **Vedansh Verma** | **1302250131** | `2JordVu` | `MAIN` |
 | Collaborator 1 | Arjit Anilkumar | 1302250043 | `arjitanilkumar` | `ARJIT_Dev` |
 | Collaborator 2 | Sahil Purswani  | 1302250073 | `sahilpurswani` | `SAHIL_Dev` |
 | Collaborator 3 | Soham Joshi     | 1302250195 | `sohamjoshila` | `SOHAM_Dev` |
