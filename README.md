@@ -9,17 +9,17 @@
 ## Group Details
 
 **Admin:**  
-- Name: HUSSAIN MURTAZA
-- PRN: 1302250362
-- GitHub Username: BAN1FTH
+- Name: Vedansh Anilkumar Verma
+- PRN: 1302250131
+- GitHub Username: 2JordVu
 
 **Team Members / Collaborators:**
 
 | Name                    | PRN              | GitHub Username     |
 |-------------------------|------------------|---------------------|
-| 1.Leo baga              |1302250624        |Leo8973
-| 2.Payal Choudhary       |1302250502        |Payal1732            |
-| 3.Anuj Gajjar           |1302250090        |1302250090-beep      |
+| 1.Arjit Anilkumar       |1302250624        |Leo8973
+| 2.Sohan joshi           |1302250502        |Payal1732            |
+| 3.Sahil Purswani        |1302250090        |1302250090-beep      |
 |                         |                  |                     |
 |                         |                  |                     |
 |                         |                  |                     |
