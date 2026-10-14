@@ -19,9 +19,20 @@
 
 ## 📁 Repository Structure
 
-```text
-├── Loan_Approval_Input.xlsx                         # Customer dataset for ML & rule-based loan evaluation
-├── Traditional_vs_ML_Loan_Approval.py               # Traditional rule logic vs Scikit-Learn Decision Tree
-├── ML_Framework_HuggingFace_SentimentMonitor.py     # Transformer sentiment monitor across 8 FinTech domains
-├── ML_Framework_RetrievalAugmentedGeneration.py     # RAG rule retrieval engine using LangChain text chunking
-└── README.md                                        # Project overview, group credentials & setup guide
+Project Description
+This repository contains the group assignment for Learning GitHub Repository & working alongside peers.
+Files included:
+Traditional Programming vs Machine Learning
+`loan_approval_traditional_vs_ml.ipynb.txt`
+Input Excel: `loan_applicants_input-47974377.xlsx`
+Output Excel: `loan_applicants_output-31198941.xlsx`
+Hugging Face Sentiment Monitor
+Sentiment analysis using Hugging Face Transformers
+Multiple problem statements included
+Retrieval Augmented Generation (RAG)
+Simple RAG implementation with knowledge base + extra rules
+---
+How to run the codes
+Install required libraries:
+```bash
+pip install pandas openpyxl transformers torch
