@@ -23,7 +23,7 @@
 
 
 ## GitHub Repository URL
-https://github.com/BAN1FTH/CCA-2--PROJECTS-TEAM
+https://github.com/2JordVu/CCA2-Projects-Team-V-V
 
 ---
 
