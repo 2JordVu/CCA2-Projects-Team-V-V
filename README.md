@@ -13,15 +13,13 @@
 - PRN: 1302250131
 - GitHub Username: 2JordVu
 
-**Team Members / Collaborators:**
-|-------------------------|------------------|---------------------|
-| Name                    | PRN              | GitHub Username     |
-|-------------------------|------------------|---------------------|
-| 1.Arjit Anilkumar       |1302250043        |Leo8973              |
-| 2.Sohan joshi           |1302250195        |Payal1732            |
-| 3.Sahil Purswani        |1302250073        |1302250090-beep      |
-|-------------------------|------------------|---------------------|
+### Team Members / Collaborators
 
+| Name | PRN | GitHub Username |
+| :--- | :--- | :--- |
+| Arjit Anilkumar | 1302250043 | Leo8973 |
+| Soham Joshi | 1302250195 | Payal1732 |
+| Sahil Purswani | 1302250073 | 1302250090-beep |
 
 
 ## GitHub Repository URL
