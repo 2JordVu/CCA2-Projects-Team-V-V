@@ -18,7 +18,7 @@
 | Name | PRN | GitHub Username |
 | :--- | :--- | :--- |
 | Arjit Anilkumar | 1302250043 | arjitanilkumar |
-| Soham Joshi | 1302250195 | sohamjoshi |
+| Soham Joshi | 1302250195 | Fighterit |
 | Sahil Purswani | 1302250073 | sahilpurswani |
 
 
