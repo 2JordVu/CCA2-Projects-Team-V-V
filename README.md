@@ -17,7 +17,7 @@
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 Project Description
 This repository contains the group assignment for Learning GitHub Repository & working alongside peers.
