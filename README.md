@@ -14,17 +14,15 @@
 - GitHub Username: 2JordVu
 
 **Team Members / Collaborators:**
-
+|-------------------------|------------------|---------------------|
 | Name                    | PRN              | GitHub Username     |
 |-------------------------|------------------|---------------------|
-| 1.Arjit Anilkumar       |1302250624        |Leo8973
-| 2.Sohan joshi           |1302250502        |Payal1732            |
-| 3.Sahil Purswani        |1302250090        |1302250090-beep      |
-|                         |                  |                     |
-|                         |                  |                     |
-|                         |                  |                     |
+| 1.Arjit Anilkumar       |1302250043        |Leo8973              |
+| 2.Sohan joshi           |1302250195        |Payal1732            |
+| 3.Sahil Purswani        |1302250073        |1302250090-beep      |
+|-------------------------|------------------|---------------------|
 
----
+
 
 ## GitHub Repository URL
 https://github.com/BAN1FTH/CCA-2--PROJECTS-TEAM
