@@ -28,11 +28,9 @@ https://github.com/2JordVu/CCA2-Projects-Team-V-V
 ---
 
 ## Project Description
-
 This repository contains the group assignment for **Learning GitHub Repository & working alongside peers**.
 
 ### Files included:
-
 1. **Traditional Programming vs Machine Learning**
    - `loan_approval_traditional_vs_ml.ipynb.txt`
    - Input Excel: `loan_applicants_input-47974377.xlsx`
