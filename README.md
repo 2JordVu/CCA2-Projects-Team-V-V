@@ -1,16 +1,50 @@
-# CCA2 Projects-Team
+# CCA2 Projects - Team
 
-## Team Members
-| Name | PRN | GitHub Username |
-|---|---|---|
-| Student 1 (Admin) | 1032230001 | admin-handle |
-| Student 2 | 1032230002 | member2-handle |
-| Student 3 | 1032230003 | member3-handle |
-| Student 4 | 1032230004 | member4-handle |
-| Student 5 | 1032230005 | member5-handle |
-| Student 6 | 1032230006 | member6-handle |
+**Subject:** AI ML 1 - CCA2  
+**Class:** SY BCom FinTech  
+**College:** MIT World Peace University, Pune
+
 ---
-How to run the codes
-Install required libraries:
-```bash
-pip install pandas openpyxl transformers torch
+
+## Group Details
+
+**Admin:**  
+- Name: HUSSAIN MURTAZA
+- PRN: 1302250362
+- GitHub Username: BAN1FTH
+
+**Team Members / Collaborators:**
+
+| Name                    | PRN              | GitHub Username     |
+|-------------------------|------------------|---------------------|
+| 1.Leo baga              |1302250624        |Leo8973
+| 2.Payal Choudhary       |1302250502        |Payal1732            |
+| 3.Anuj Gajjar           |1302250090        |1302250090-beep      |
+|                         |                  |                     |
+|                         |                  |                     |
+|                         |                  |                     |
+
+---
+
+## GitHub Repository URL
+https://github.com/BAN1FTH/CCA-2--PROJECTS-TEAM
+
+---
+
+## Project Description
+
+This repository contains the group assignment for **Learning GitHub Repository & working alongside peers**.
+
+### Files included:
+
+1. **Traditional Programming vs Machine Learning**
+   - `loan_approval_traditional_vs_ml.ipynb.txt`
+   - Input Excel: `loan_applicants_input-47974377.xlsx`
+   - Output Excel: `loan_applicants_output-31198941.xlsx`
+
+2. **Hugging Face Sentiment Monitor**
+   - Sentiment analysis using Hugging Face Transformers
+   - Multiple problem statements included
+
+3. **Retrieval Augmented Generation (RAG)**
+   - Simple RAG implementation with knowledge base + extra rules
