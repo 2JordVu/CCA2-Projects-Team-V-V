@@ -6,7 +6,7 @@ Assignment       : Simple RAG implementation with knowledge base + extra rules
 
 Student Name     : Vedansh Anilkumar Verma
 PRN              : 1302250131
-Branch           : Vedansh_Dev
+Branch           : vedansh_dev
 
 Instructions for GitHub:
 1. Replace <YOUR FULL NAME> and <YOUR PRN NUMBER> below.
