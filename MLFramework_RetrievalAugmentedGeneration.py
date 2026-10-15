@@ -16,6 +16,7 @@ Instructions for GitHub:
 # ============================================================
 # 1. IMPORTS
 # ============================================================
+# Install required packages first: pip install scikit-learn numpy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
