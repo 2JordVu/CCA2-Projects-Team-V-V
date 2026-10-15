@@ -1,5 +1,5 @@
-# Name: Your Full Name
-# PRN: Your PRN Number
+# Name: Arjit Anilkumar
+# PRN: 1302250043
 import torch
 from transformers import pipeline
 
