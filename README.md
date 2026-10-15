@@ -12,14 +12,15 @@
 - Name: Vedansh Anilkumar Verma
 - PRN: 1302250131
 - GitHub Username: 2JordVu
+- Branch : Vedansh_dev
 
 ### Team Members / Collaborators
 
-| Name | PRN | GitHub Username |
-| :--- | :--- | :--- |
-| Arjit Anilkumar | 1302250043 | arjitanilkumar |
-| Soham Joshi | 1302250195 | Fighterit |
-| Sahil Purswani | 1302250073 | sahilpurswani |
+| Name | PRN | Branch | GitHub Username |
+| :--- | :--- | :--- | :--- |
+| Arjit Anilkumar | 1302250043 | arjit_dev | arjitanilkumar |
+| Soham Joshi | 1302250195 | soham_dev | Fighterit |
+| Sahil Purswani | 1302250073 | sahil_dev | sahilpurswani |
 
 
 ## GitHub Repository URL
