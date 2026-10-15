@@ -1,5 +1,5 @@
-# Name: Vedansh Anilkumar Verma
-# PRN: 1302250131
+# Name: Your Full Name
+# PRN: Your PRN Number
 import torch
 from transformers import pipeline
 
