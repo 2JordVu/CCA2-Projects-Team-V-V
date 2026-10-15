@@ -4,9 +4,9 @@ Subject          : AI ML 1 - CCA2
 Class            : S Y BCom FinTech
 Assignment       : Simple RAG implementation with knowledge base + extra rules
 
-Student Name     : <YOUR FULL NAME>
-PRN              : <YOUR PRN NUMBER>
-Branch           : <YourFirstName>_Dev
+Student Name     : Vedansh Anilkumar Verma
+PRN              : 1302250131
+Branch           : Vedansh_Dev
 
 Instructions for GitHub:
 1. Replace <YOUR FULL NAME> and <YOUR PRN NUMBER> below.
