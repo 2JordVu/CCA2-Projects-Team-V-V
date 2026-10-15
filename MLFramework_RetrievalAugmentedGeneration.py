@@ -4,9 +4,9 @@ Subject          : AI ML 1 - CCA2
 Class            : S Y BCom FinTech
 Assignment       : Simple RAG implementation with knowledge base + extra rules
 
-Student Name     : Your Name 
-PRN              : your PRN
-Branch           : Your Branch
+Student Name     : Soham Pramod Joshi
+PRN              : 1302250195
+Branch           : Soham_Dev
 
 Instructions for GitHub:
 1. Replace <YOUR FULL NAME> and <YOUR PRN NUMBER> below.
